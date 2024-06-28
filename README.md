@@ -23,6 +23,4 @@ Getting started:
 2. Open the index.html file in a web browser to view the website.
 3. Explore the code and customize as needed.
 
-License:
 
-This project is licensed under the MIT License. Feel free to use and modify it for personal or commercial purpose.
